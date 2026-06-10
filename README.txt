@@ -46,7 +46,7 @@ Ejemplo de lista_musica.txt:
 text
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 https://www.youtube.com/watch?v=9bZkp7q19f0
-https://www.youtube.com/playlist?list=PLdOoV8lexAw5ZfvN8UiA2rhAjlkDidNYH
+https://www.youtube.com/playlist?list=PLplXQ2cg9B_qrCVd1J_iId5SvP8Kf_BfS
 🚀 Uso paso a paso
 1. Obtener las URLs de una lista de reproducción
 Abre una terminal en la carpeta del proyecto y ejecuta:
@@ -58,7 +58,7 @@ Esto te mostrará todas las URLs de los videos. Cópialas y pégalas en lista_mu
 Ejemplo:
 
 bash
-yt-dlp --get-url --flat-playlist https://www.youtube.com/playlist?list=PLdOoV8lexAw5ZfvN8UiA2rhAjlkDidNYH
+yt-dlp --get-url --flat-playlist https://www.youtube.com/playlist?list=PLplXQ2cg9B_qrCVd1J_iId5SvP8Kf_BfS
 2. Ejecutar el script
 Una vez que tengas las URLs en lista_musica.txt, corre:
 
@@ -124,7 +124,7 @@ Example lista_musica.txt:
 text
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 https://www.youtube.com/watch?v=9bZkp7q19f0
-https://www.youtube.com/playlist?list=PLdOoV8lexAw5ZfvN8UiA2rhAjlkDidNYH
+https://www.youtube.com/playlist?list=PLplXQ2cg9B_qrCVd1J_iId5SvP8Kf_BfS
 🚀 How to use
 1. Get URLs from a YouTube playlist
 Open a terminal in the project folder and run:
@@ -136,7 +136,7 @@ This will output all video URLs. Copy and paste them into lista_musica.txt.
 Example:
 
 bash
-yt-dlp --get-url --flat-playlist https://www.youtube.com/playlist?list=PLdOoV8lexAw5ZfvN8UiA2rhAjlkDidNYH
+yt-dlp --get-url --flat-playlist https://www.youtube.com/playlist?list=PLplXQ2cg9B_qrCVd1J_iId5SvP8Kf_BfS
 2. Run the script
 Once the URLs are in lista_musica.txt, execute:
 
