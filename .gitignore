@@ -1,0 +1,6 @@
+ffmpeg/
+__pycache__/
+*.mp3
+*.webm
+*.m4a
+*.part
